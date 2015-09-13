@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/alexlrobertson/gulp-erotimatiko/issues"
   },
-  "homepage": "https://github.com/alexlrobertson/gulp-erotimatiko#readme"
+  "homepage": "https://github.com/alexlrobertson/gulp-erotimatiko#readme",
+  "dependencies": {
+    "through2": "^2.0.0"
+  }
 }
