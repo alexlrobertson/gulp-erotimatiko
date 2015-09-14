@@ -1,6 +1,8 @@
 # gulp-erotimatiko
 Questionable
 
+[![Build Status](https://travis-ci.org/alexlrobertson/gulp-erotimatiko.svg)](https://travis-ci.org/alexlrobertson/gulp-erotimatiko)
+
 ```javascript
 var gulp = require('gulp');
 var erotimatiko = require('gulp-erotimatiko');
