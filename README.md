@@ -1,5 +1,5 @@
 # gulp-erotimatiko
-Questionable
+Questionable :japanese_ogre:
 
 [![Build Status](https://travis-ci.org/alexlrobertson/gulp-erotimatiko.svg)](https://travis-ci.org/alexlrobertson/gulp-erotimatiko)
 
